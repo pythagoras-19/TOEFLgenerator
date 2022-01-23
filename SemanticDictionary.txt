@@ -1,0 +1,75 @@
+Semantic Descriptors:
+{
+she {  was 1  vexed 1  irritated 1  and 1  angry 1  with 1  his 1  actions 1 }
+
+was {  she 1  vexed 1  irritated 3  and 4  angry 3  with 1  his 1  actions 1  he 6  annoyed 2  as 2  well 2  wishing 2  could 2  explain 2  to 4  her 2  how 2  the 9  dog 3  amused 1  gleefully 1  tearing 1  couch 3  apart 1  sprinting 1  around 1  room 1  cat 2  frightened 2  trying 2  hide 2  under 2  that 2  destroying 2 }
+
+vexed {  she 1  was 1  irritated 1  and 1  angry 1  with 1  his 1  actions 1 }
+
+irritated {  she 1  was 3  vexed 1  and 2  angry 2  with 1  his 1  actions 1  he 3  annoyed 1  as 1  well 1  wishing 1  could 1  explain 1  to 1  her 1  how 1 }
+
+and {  she 1  was 4  vexed 1  irritated 2  angry 2  with 1  his 1  actions 1  he 3  annoyed 1  as 1  well 1  wishing 1  could 1  explain 1  to 1  her 1  how 1  the 3  dog 1  amused 1  gleefully 1  tearing 1  couch 1  apart 1  sprinting 1  around 1  room 1 }
+
+angry {  she 1  was 3  vexed 1  irritated 2  and 2  with 1  his 1  actions 1  he 3  annoyed 1  as 1  well 1  wishing 1  could 1  explain 1  to 1  her 1  how 1 }
+
+with {  she 1  was 1  vexed 1  irritated 1  and 1  angry 1  his 1  actions 1 }
+
+his {  she 1  was 1  vexed 1  irritated 1  and 1  angry 1  with 1  actions 1 }
+
+actions {  she 1  was 1  vexed 1  irritated 1  and 1  angry 1  with 1  his 1 }
+
+he {  was 6  annoyed 3  and 3  irritated 3  as 3  well 3  wishing 3  could 3  explain 3  to 3  her 3  how 3  angry 3 }
+
+annoyed {  he 3  was 2  and 1  irritated 1  as 1  well 1  wishing 1  could 1  explain 1  to 1  her 1  how 1  angry 1 }
+
+as {  he 3  was 2  annoyed 1  and 1  irritated 1  well 1  wishing 1  could 1  explain 1  to 1  her 1  how 1  angry 1 }
+
+well {  he 3  was 2  annoyed 1  and 1  irritated 1  as 1  wishing 1  could 1  explain 1  to 1  her 1  how 1  angry 1 }
+
+wishing {  he 3  was 2  annoyed 1  and 1  irritated 1  as 1  well 1  could 1  explain 1  to 1  her 1  how 1  angry 1 }
+
+could {  he 3  was 2  annoyed 1  and 1  irritated 1  as 1  well 1  wishing 1  explain 1  to 1  her 1  how 1  angry 1 }
+
+explain {  he 3  was 2  annoyed 1  and 1  irritated 1  as 1  well 1  wishing 1  could 1  to 1  her 1  how 1  angry 1 }
+
+to {  he 3  was 4  annoyed 1  and 1  irritated 1  as 1  well 1  wishing 1  could 1  explain 1  her 1  how 1  angry 1  the 3  cat 1  frightened 1  trying 1  hide 1  under 1  couch 1  that 1  dog 1  destroying 1 }
+
+her {  he 3  was 2  annoyed 1  and 1  irritated 1  as 1  well 1  wishing 1  could 1  explain 1  to 1  how 1  angry 1 }
+
+how {  he 3  was 2  annoyed 1  and 1  irritated 1  as 1  well 1  wishing 1  could 1  explain 1  to 1  her 1  angry 1 }
+
+the {  dog 6  was 9  amused 3  gleefully 3  tearing 3  couch 6  apart 3  and 3  sprinting 3  around 3  room 3  cat 3  frightened 3  trying 3  to 3  hide 3  under 3  that 3  destroying 3 }
+
+dog {  the 6  was 3  amused 1  gleefully 1  tearing 1  couch 2  apart 1  and 1  sprinting 1  around 1  room 1  cat 1  frightened 1  trying 1  to 1  hide 1  under 1  that 1  destroying 1 }
+
+amused {  the 3  dog 1  was 1  gleefully 1  tearing 1  couch 1  apart 1  and 1  sprinting 1  around 1  room 1 }
+
+gleefully {  the 3  dog 1  was 1  amused 1  tearing 1  couch 1  apart 1  and 1  sprinting 1  around 1  room 1 }
+
+tearing {  the 3  dog 1  was 1  amused 1  gleefully 1  couch 1  apart 1  and 1  sprinting 1  around 1  room 1 }
+
+couch {  the 6  dog 2  was 3  amused 1  gleefully 1  tearing 1  apart 1  and 1  sprinting 1  around 1  room 1  cat 1  frightened 1  trying 1  to 1  hide 1  under 1  that 1  destroying 1 }
+
+apart {  the 3  dog 1  was 1  amused 1  gleefully 1  tearing 1  couch 1  and 1  sprinting 1  around 1  room 1 }
+
+sprinting {  the 3  dog 1  was 1  amused 1  gleefully 1  tearing 1  couch 1  apart 1  and 1  around 1  room 1 }
+
+around {  the 3  dog 1  was 1  amused 1  gleefully 1  tearing 1  couch 1  apart 1  and 1  sprinting 1  room 1 }
+
+room {  the 3  dog 1  was 1  amused 1  gleefully 1  tearing 1  couch 1  apart 1  and 1  sprinting 1  around 1 }
+
+cat {  the 3  was 2  frightened 1  trying 1  to 1  hide 1  under 1  couch 1  that 1  dog 1  destroying 1 }
+
+frightened {  the 3  cat 1  was 2  trying 1  to 1  hide 1  under 1  couch 1  that 1  dog 1  destroying 1 }
+
+trying {  the 3  cat 1  was 2  frightened 1  to 1  hide 1  under 1  couch 1  that 1  dog 1  destroying 1 }
+
+hide {  the 3  cat 1  was 2  frightened 1  trying 1  to 1  under 1  couch 1  that 1  dog 1  destroying 1 }
+
+under {  the 3  cat 1  was 2  frightened 1  trying 1  to 1  hide 1  couch 1  that 1  dog 1  destroying 1 }
+
+that {  the 3  cat 1  was 2  frightened 1  trying 1  to 1  hide 1  under 1  couch 1  dog 1  destroying 1 }
+
+destroying {  the 3  cat 1  was 2  frightened 1  trying 1  to 1  hide 1  under 1  couch 1  that 1  dog 1 }
+
+}
